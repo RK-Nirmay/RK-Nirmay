@@ -1,7 +1,11 @@
 <h1 align="center">⚔️ RK-Nirmay | Ethical Hacker & Cybersecurity Explorer 💀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cybersecurity+Explorer;Bug+Bounty+Hunter;CTF+Player;Offensive+%26+Defensive+Security;Future+Cyber+Specialist" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cybersecurity+Explorer;Bug+Bounty+Hunter;CTF+Player;Offensive+%26+Defensive+Security" />
 </p>
 
 ---
@@ -11,7 +15,7 @@
 🛡️ Ethical Hacker & Cybersecurity enthusiast from India 🇮🇳  
 ⚔️ Focus: Bug Bounty | CTF | SOC | GRC | Cloud Security  
 💻 Passion: Breaking systems & securing them  
-🤖 Exploring AI as a tool for hacking & security  
+🤖 Using AI as a tool for cybersecurity  
 🎯 Goal: Become a high-level cybersecurity expert  
 
 ---
@@ -23,10 +27,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://tryhackme.com/p/HKnirmay">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 <a href="mailto:nirmaysoni@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -45,16 +49,9 @@
 
 ---
 
-### ☁️ Cloud & Automation
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
 ### 💻 Scripting & Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
@@ -67,12 +64,6 @@
 
 ---
 
-## 💀 Hacker Mindset
+## 💀 Hacker Quote
 
-> "Learn how systems break, so you can learn how to secure them."
-
----
-
-## 🐍 Contribution Animation
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid
+> "Hack to learn. Secure to protect." ⚔️
