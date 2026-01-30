@@ -1,46 +1,40 @@
-<h1 align="center">⚔️ RK-Nirmay | Cybersecurity × AI Engineer 💀</h1>
+<h1 align="center">⚔️ RK-Nirmay | Ethical Hacker & Cybersecurity Explorer 💀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cybersecurity+Engineer;Bug+Bounty+Hunter;SOC+%7C+GRC+%7C+Cloud+Security;AI+in+Cybersecurity;Future+CISO+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green"/>
-  <img src="https://img.shields.io/badge/AI%20Engineer-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bug%20Bounty-000000?style=for-the-badge&logo=bugcrowd&logoColor=red"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00FF9C&center=true&vCenter=true&width=650&lines=Ethical+Hacker;Cybersecurity+Explorer;Bug+Bounty+Hunter;CTF+Player;Offensive+%26+Defensive+Security;Future+Cyber+Specialist+⚔️" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-🛡️ Ethical Hacker & Cybersecurity Specialist from India 🇮🇳  
-💻 Focus Areas: SOC | GRC | Bug Bounty | Cloud Security | DevSecOps  
-🤖 Exploring AI & Automation in Cybersecurity  
-🎯 Vision: Become a global cybersecurity leader & entrepreneur  
-💰 Goal: Freedom, Mastery & Impact through Cybersecurity  
+🛡️ Ethical Hacker & Cybersecurity enthusiast from India 🇮🇳  
+⚔️ Focus: Bug Bounty | CTF | SOC | GRC | Cloud Security  
+💻 Passion: Breaking systems & securing them  
+🤖 Exploring AI as a tool for hacking & security  
+🎯 Goal: Become a high-level cybersecurity expert  
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Hacker Profiles
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nirmaysoni1007" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:nirmaysoni@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://tryhackme.com/p/HKnirmay" target="_blank">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
+<a href="mailto:nirmaysoni@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## ⚔️ Cybersecurity Arsenal
+## ⚔️ Skills & Tools
 
-### 🛡️ Security Tools & Platforms
+### 🛡️ Hacking & Security
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite)
@@ -51,57 +45,44 @@
 
 ---
 
-### ☁️ Cloud & DevSecOps
+### ☁️ Cloud & Automation
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-### 🤖 Programming & AI
+### 💻 Scripting & Tech
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00F7FF?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash)
 
 ---
 
-## 🚀 Current Mission
+## 🚀 Current Focus
 
 - 🔍 Bug Bounty & Web Security
-- 🧠 AI in SOC & Cyber Defense
-- 📜 GRC & ISO 27001
-- ☁️ Cloud Security (AWS, Azure, GCP)
-- 🧩 CTF & Real-world Labs
+- 🧩 CTF & TryHackMe labs
+- 🛡️ SOC & Blue Team fundamentals
+- ☁️ Cloud security basics
+- 🤖 Using AI as a hacking assistant
 
 ---
 
-## 📊 GitHub Cyber Stats
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RK-Nirmay&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RK-Nirmay&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RK-Nirmay&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+---
+
+## 💀 Hacker Mindset
+
+> "Learn how systems break, so you can learn how to secure them." ⚔️
 
 ---
 
-## 💀 Hacker Philosophy
-
-> "The world is full of systems. Learn them, break them, secure them." ⚔️
-
----
-
-## 🐍 Cyber Contribution Animation
+## 🐍 Contribution Animation
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
----
-
-## ⚡ Final Identity
-
-```txt
-Cybersecurity × AI × Business × Freedom
